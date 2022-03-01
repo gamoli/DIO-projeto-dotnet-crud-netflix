@@ -1,0 +1,14 @@
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\bin\Debug\netcoreapp3.1\Oscarflix.exe
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\bin\Debug\netcoreapp3.1\Oscarflix.deps.json
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\bin\Debug\netcoreapp3.1\Oscarflix.runtimeconfig.json
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\bin\Debug\netcoreapp3.1\Oscarflix.runtimeconfig.dev.json
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\bin\Debug\netcoreapp3.1\Oscarflix.dll
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\bin\Debug\netcoreapp3.1\Oscarflix.pdb
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\obj\Debug\netcoreapp3.1\Oscarflix.csproj.AssemblyReference.cache
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\obj\Debug\netcoreapp3.1\Oscarflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\obj\Debug\netcoreapp3.1\Oscarflix.AssemblyInfoInputs.cache
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\obj\Debug\netcoreapp3.1\Oscarflix.AssemblyInfo.cs
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\obj\Debug\netcoreapp3.1\Oscarflix.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\obj\Debug\netcoreapp3.1\Oscarflix.dll
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\obj\Debug\netcoreapp3.1\Oscarflix.pdb
+C:\workspace\DIO\dio-projeto-dotnet-crud-netflix\Oscarflix\obj\Debug\netcoreapp3.1\Oscarflix.genruntimeconfig.cache
